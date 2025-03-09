@@ -1,4 +1,4 @@
-# Square Tbas
+# Square Tabs
 
 Revoes rounded corners from tabs in the tab bar.
 
